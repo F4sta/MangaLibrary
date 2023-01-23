@@ -64,7 +64,7 @@
       "settings": {
         "main": true,
         "title": "Manga Library",
-        "meta_descr": "",
+        "meta_descr": "Homepage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
